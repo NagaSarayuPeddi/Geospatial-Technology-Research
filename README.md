@@ -1,6 +1,3 @@
-# geospatial-technology-research
-Award-winning geospatial research project using GIS, spatial analysis, and quantitative modeling to evaluate urban heat islands in Raleigh.
-
 # Urban Heat Island Analysis in Raleigh, North Carolina
 
 A geospatial analysis investigating how land cover, vegetation, and urban development contribute to Urban Heat Island effects across Raleigh using GIS and data analysis.
