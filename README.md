@@ -18,7 +18,7 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 
 1. Researched causes and effects of Urban Heat Islands.
 2. Collected satellite imagery and datasets of Raleigh from ArcGIS and the City of Raleigh.
-3. Generated Land Surface Temperature maps.
+3. Generated Evening Air Temperature maps.
 4. Layered and compared:
    - Land Cover
    - Impervious Surfaces
