@@ -133,10 +133,10 @@ This was a team project completed with one project partner. Contributions are de
 
 My individual contributions included:
 
-- Researching solutions and mapping out where to implement solutions
-- Created the project's analysis maps in ArcGIS by integrating temperatures, land cover, transportation, canopy, vulnerability, and infrastructure datasets
-- Identified priority hot spots and developed location specific recommendations
-- Created visual infographic with solutions and a combination of analysis maps
+- Researched mitigation strategies and identified suitable implementation locations.
+- Created the project's analysis maps in ArcGIS by integrating temperature, land cover, transportation, canopy, vulnerability, and infrastructure datasets.
+- Identified priority hotspots and developed location-specific recommendations.
+- Designed the final infographic by combining analysis maps and proposed solutions.
 
 My project partner contributed to:
 
