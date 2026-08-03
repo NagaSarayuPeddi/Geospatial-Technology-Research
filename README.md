@@ -116,8 +116,10 @@ I contributed to:
 - Identified critical hot spots and effective solutions to mitigate heat in that area
 - Created visual infographic with solutions and a combination of analysis maps
 
+This was a team project completed with one project partner. Contributions are described to clearly distinguish individual and collaborative work.
+
 ## Awards
-1st Place, TSA North Carolina State Conference in Geospatial Technology
+1st Place, 2026 TSA North Carolina State Conference in Geospatial Technology
 
 ## Future Improvements
 
