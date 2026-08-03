@@ -9,6 +9,15 @@ A geospatial analysis investigating how land cover, vegetation, and urban develo
 
 Urban Heat Islands (UHIs) occur when developed areas become significantly warmer than surrounding rural regions due to dense infrastructure, impervious surfaces, and limited vegetation. This project analyzes Raleigh, North Carolina using GIS to identify heat hotspots, understand the environmental factors contributing to elevated temperatures, and propose equitable mitigation strategies.
 
+## Results at a Glance
+
+- Major transportation corridors and highly impervious areas frequently overlap with elevated evening temeperatures
+- Areas with greater tree-canopy heights genernally appeared cooler
+- Greenways formed visible cooling corridors through portions of Raleigh
+- Some socially vulnerable communities also experinced higher heat exposure
+- Several areas appeared underserved by existing cooling center locations
+- Priority solutions included expanded tree canopy, permeable parking surfaces, cool roofs, green roofs, and traditional cooling centers
+
 ## Research Questions
 
 - Which areas experience the highest surface temperatures?
@@ -66,7 +75,7 @@ Areas with greater tree canopy generally experience lower temperatures, reinforc
 [Temperature and Tree Canopy](maps/02_temperature_canopy.png)
 
 ### Parking Lots
-Large asphalt parking lots strongly correlate with elevated temperatures because of their low albedo and impermeable surfaces.
+Large asphalt parking lots frequently overlap with areas of elevated evening temperatures because of their low albedo and impermeable surfaces.
 [Temperature and Parking Lots](maps/02_temperature_canopy.png)
 
 ### Social Vulnerability
@@ -117,14 +126,21 @@ Data Sources
 - NC State Climate Office
 - City of Raleigh GIS
 
-## My Contributions
-I contributed to:
+## Team and Individual Contributions
+
+This was a team project completed with one project partner. Contributions are described to clearly distinguish individual and collaborative work.
+
+My individual contributions included:
+
 - Researching solutions and mapping out where to implement solutions
-- Created all analysis maps with ArcGIS and layered datasets
+- Created the project's analysis maps in ArcGIS by integrating temperatures, land cover, transportation, canopy, vulnerability, and infrastructure datasets
 - Identified critical hot spots and effective solutions to mitigate heat in that area
 - Created visual infographic with solutions and a combination of analysis maps
 
-This was a team project completed with one project partner. Contributions are described to clearly distinguish individual and collaborative work.
+My project partner contributed to:
+
+- Researching background of the research problem including causes and effects
+- Analyzing the layered maps to come to qualitative conclusions
 
 ## Awards
 1st Place, 2026 TSA North Carolina State Conference in Geospatial Technology
