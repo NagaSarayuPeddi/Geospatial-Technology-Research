@@ -16,11 +16,11 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 - Greenways formed visible cooling corridors through portions of Raleigh.
 - Some socially vulnerable communities also experienced higher heat exposure.
 - Several areas appeared underserved by existing cooling center locations.
-- Priority solutions included expanded tree canopy, permeable parking surfaces, cool roofs, green roofs, and traditional cooling centers.
+- Priority solutions included expanded tree canopy, permeable parking surfaces, cool roofs, green roofs, and additional cooling centers.
 
 ## Research Questions
 
-- Which areas experience the highest surface temperatures?
+- Which areas experience the highest evening temperatures?
 - How does vegetation and canopy height affect temperature?
 - What relationship exists between urbanization and heat?
 - Which communities are most vulnerable?
@@ -57,7 +57,7 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 | Fractional Impervious Surface | [Esri Environment](https://www.arcgis.com/home/item.html?id=6df535f263dd44f489365eed49461a38) | Calculates the percentage of each pixel that is covered by an impervious surface |
 | Transportation (Roads and Railroads) | [Esri Environment](https://www.arcgis.com/home/item.html?id=f42ecc08a3634182b8678514af35fac3) | Displays primary roads, secondary roads, local roads and railroads in the United States. |
 | Global Canopy Height | [Esri Environment](https://www.arcgis.com/home/item.html?id=2a3dfb00c2c6425f85bd70da420d58eb) | Displays global vegetation height on a scale with a resolution of 10-m. |
-| Social Vulnerability Index | [Centers for Disease Control and Prevention](https://www.arcgis.com/home/item.html?id=05709059044243ae9b42f469f0e06642) | Visualizes overal SVI for US counties and tracts with 16 social factors grouped into four major themes. |
+| Social Vulnerability Index | [Centers for Disease Control and Prevention](https://www.arcgis.com/home/item.html?id=05709059044243ae9b42f469f0e06642) | Visualizes overall SVI for US counties and tracts with 16 social factors grouped into four major themes. |
 | Parking Lots | [City of Raleigh](https://www.arcgis.com/home/item.html?id=279328c67180440fbc9c4921a40d79f2) | Identifies parking lots by annual planimetric update project. |
 | Cooling Centers | [City of Raleigh](https://ral.maps.arcgis.com/home/item.html?id=a91279200432485dad65d477b3975085) | Identifies cooling centers in the city of Raleigh including cooling buildings and libraries. |
 | Senior Population Around the Globe | [Esri Environment](https://ral.maps.arcgis.com/home/item.html?id=16ac068ca6f441648e1cafc283a96d53) | Shows where senior populations are found throughout the world with red dots and shading. |
@@ -135,7 +135,7 @@ My individual contributions included:
 
 - Researching solutions and mapping out where to implement solutions
 - Created the project's analysis maps in ArcGIS by integrating temperatures, land cover, transportation, canopy, vulnerability, and infrastructure datasets
-- Identified critical hot spots and effective solutions to mitigate heat in that area
+- Identified priority hot spots and developed location specific recommendations
 - Created visual infographic with solutions and a combination of analysis maps
 
 My project partner contributed to:
