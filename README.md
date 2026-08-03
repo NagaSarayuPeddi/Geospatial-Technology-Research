@@ -75,7 +75,7 @@ Overlaying heat, social vulnerability, senior populations, and city buildings al
 Areas with low canopy height consistently overlapped with higher temperatures, while greenways and forested areas remained cooler. Expanding tree canopy in neighborhoods, parking lots, and along major roads can provide shade, reduce surface temperatures through evapotranspiration, and improve air quality. Prioritizing locations with both high heat and low vegetation will maximize the cooling impact.
 
 ### Green Roofs
-For densely developed areas with limited space for trees, green roofs provide an effective alternative by adding vegetation to rooftops. They help lower rooftop temperatures, reduce building cooling demands, and contribute to a more sustainable urban environment. Your analysis recommends implementing green roofs on large public and commercial buildings.
+For densely developed areas with limited space for trees, green roofs provide an effective alternative by adding vegetation to rooftops. They help lower rooftop temperatures, reduce building cooling demands, and contribute to a more sustainable urban environment. The analysis recommends implementing green roofs on large public and commercial buildings.
 
 ### Cool Roofs
 Cool roofs use reflective materials that absorb less heat than traditional roofing, helping reduce both building and surrounding air temperatures. Installing cool roofs on schools, city buildings, and commercial structures can improve energy efficiency while mitigating the Urban Heat Island effect.
