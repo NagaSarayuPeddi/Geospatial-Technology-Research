@@ -144,10 +144,10 @@ My individual contributions included:
 - Identified priority hotspots and developed location-specific recommendations.
 - Designed the final infographic by combining analysis maps and proposed solutions.
 
-My project partner contributed to:
+My project partner contributions included:
 
-- Researching background of the research problem including causes and effects
-- Analyzing the layered maps to come to qualitative conclusions
+- Researched background of the research problem including causes and effects
+- Analyzed the layered maps to come to qualitative conclusions
 
 ## Awards
 1st Place, 2026 TSA North Carolina State Conference in Geospatial Technology
