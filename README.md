@@ -11,12 +11,12 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 
 ## Results at a Glance
 
-- Major transportation corridors and highly impervious areas frequently overlap with elevated evening temeperatures
-- Areas with greater tree-canopy heights genernally appeared cooler
-- Greenways formed visible cooling corridors through portions of Raleigh
-- Some socially vulnerable communities also experinced higher heat exposure
-- Several areas appeared underserved by existing cooling center locations
-- Priority solutions included expanded tree canopy, permeable parking surfaces, cool roofs, green roofs, and traditional cooling centers
+- Major transportation corridors and highly impervious areas frequently overlap with elevated evening temperatures.
+- Areas with greater tree-canopy heights generally appeared cooler.
+- Greenways formed visible cooling corridors through portions of Raleigh.
+- Some socially vulnerable communities also experienced higher heat exposure.
+- Several areas appeared underserved by existing cooling center locations.
+- Priority solutions included expanded tree canopy, permeable parking surfaces, cool roofs, green roofs, and traditional cooling centers.
 
 ## Research Questions
 
@@ -76,7 +76,7 @@ Areas with greater tree canopy generally experience lower temperatures, reinforc
 
 ### Parking Lots
 Large asphalt parking lots frequently overlap with areas of elevated evening temperatures because of their low albedo and impermeable surfaces.
-[Temperature and Parking Lots](maps/02_temperature_canopy.png)
+[Temperature and Parking Lots](maps/05_temperature_parkinglots.png)
 
 ### Social Vulnerability
 Communities with higher social vulnerability often coincide with hotter areas, indicating that heat exposure can disproportionately affect vulnerable populations.
@@ -105,6 +105,7 @@ By combining temperature, social vulnerability, senior population, and city buil
 
 ### Expanding Greenway Corridors
 Greenways generally corresponded with cooler temperatures, demonstrating the benefits of connected vegetation. Expanding tree coverage along existing greenways—particularly in warmer sections—can strengthen these natural cooling corridors and reduce surrounding temperatures.
+[Temperature and Greenways](maps/03_temperature_greenways.png)
 
 ## Tools Used
 GIS
