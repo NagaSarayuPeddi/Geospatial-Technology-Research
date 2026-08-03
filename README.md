@@ -7,7 +7,7 @@ A geospatial analysis investigating how land cover, vegetation, and urban develo
 
 ## Project Overview
 
-Cities often experience significantly higher temperatures than surrounding rural areas due to dense infrastructure and limited vegetation. This project investigates the Urban Heat Island (UHI) effect in Raleigh, North Carolina using geospatial analysis to identify high-risk areas and evaluate environmental factors contributing to increased surface temperatures. It identifies equitable solutions and maps out where they can implemented.
+Urban Heat Islands (UHIs) occur when developed areas become significantly warmer than surrounding rural regions due to dense infrastructure, impervious surfaces, and limited vegetation. This project analyzes Raleigh, North Carolina using GIS to identify heat hotspots, understand the environmental factors contributing to elevated temperatures, and propose equitable mitigation strategies.
 
 ## Research Questions
 
@@ -55,4 +55,111 @@ Cities often experience significantly higher temperatures than surrounding rural
 | City Buildings | [Raleigh GIS](https://ral.maps.arcgis.com/home/item.html?id=b127bcbdf2594b2ab127c0fefa41a262) | Displays all city buildings in Raleigh. |
 | Raleigh Greenway Trails | [City of Raleigh](https://www.arcgis.com/home/item.html?id=23836bb9145943d485252d9665020ff1) | Displays Raleigh greenway trails and related structures, including segment type, status, material, accessibility, and closure information. |
 
+## Key Findings
 
+### Transportation
+Major roads and railroads consistently overlap with higher evening temperatures, suggesting transportation infrastructure contributes to Urban Heat Island intensity.
+
+### Vegetation
+Areas with greater tree canopy generally experience lower temperatures, reinforcing the cooling benefits of urban forests and greenways.
+
+### Parking Lots
+Large asphalt parking lots strongly correlate with elevated temperatures because of their low albedo and impermeable surfaces.
+
+### Social Vulnerability
+Communities with higher social vulnerability often coincide with hotter areas, indicating that heat exposure can disproportionately affect vulnerable populations.
+
+### Cooling Centers
+Overlaying heat, social vulnerability, senior populations, and city buildings allowed the identification of locations where additional cooling centers would have the greatest impact.
+
+## Proposed Solutions
+
+### Increase Tree Canopy
+Areas with low canopy height consistently overlapped with higher temperatures, while greenways and forested areas remained cooler. Expanding tree canopy in neighborhoods, parking lots, and along major roads can provide shade, reduce surface temperatures through evapotranspiration, and improve air quality. Prioritizing locations with both high heat and low vegetation will maximize the cooling impact.
+
+### Green Roofs
+For densely developed areas with limited space for trees, green roofs provide an effective alternative by adding vegetation to rooftops. They help lower rooftop temperatures, reduce building cooling demands, and contribute to a more sustainable urban environment. Your analysis recommends implementing green roofs on large public and commercial buildings.
+
+### Cool Roofs
+Cool roofs use reflective materials that absorb less heat than traditional roofing, helping reduce both building and surrounding air temperatures. Installing cool roofs on schools, city buildings, and commercial structures can improve energy efficiency while mitigating the Urban Heat Island effect.
+
+### Permeable Parking Lots
+Large asphalt parking lots were identified as significant contributors to higher temperatures because they absorb and store solar heat. Replacing traditional pavement with permeable materials and adding vegetation can reduce heat buildup while improving stormwater infiltration. Dorothea Dix Park was identified as a priority location for this strategy.
+
+### Cooling Centers
+By combining temperature, social vulnerability, senior population, and city building data, the analysis identified areas that would benefit most from additional cooling centers. Repurposing existing public buildings into cooling centers provides an equitable and cost-effective way to protect vulnerable communities during extreme heat events.
+
+### Expanding Greenway Corridors
+Greenways generally corresponded with cooler temperatures, demonstrating the benefits of connected vegetation. Expanding tree coverage along existing greenways—particularly in warmer sections—can strengthen these natural cooling corridors and reduce surrounding temperatures.
+
+## Tools Used
+GIS
+
+- ArcGIS Online
+- QGIS
+
+Analysis
+
+- Spatial Overlay
+- Raster Analysis
+- Heat Mapping
+
+Data Sources
+
+- NOAA
+- CDC
+- Wake County GIS
+- NC State Climate Office
+- City of Raleigh GIS
+
+## My Contributions
+I contributed to:
+- Researching solutions and mapping out where to implement solutions
+- Created all analysis maps with ArcGIS and layered datasets
+- Identified critical hot spots and effective solutions to mitigate heat in that area
+- Created visual infographic with solutions and a combination of analysis maps
+
+## Awards
+1st Place, TSA North Carolina State Conference in Geospatial Technology
+
+## Future Improvements
+
+- Develop an interactive ArcGIS Dashboard for public exploration.
+- Analyze multi-year satellite imagery to study long-term Urban Heat Island trends.
+- Incorporate Landsat or Sentinel imagery for higher-resolution land surface temperature analysis.
+- Apply machine learning to predict future hotspot development under different urban growth scenarios.
+
+## Folder Structure
+
+geospatial-technology-research/
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── report/
+│   ├── geospatial-research-report.pdf
+│   └── executive-summary.pdf
+│
+├── maps/
+│   ├── final-suitability-map.png
+│   ├── study-area-map.png
+│   ├── elevation-map.png
+│   └── risk-analysis-map.png
+│
+├── data/
+│   ├── README.md
+│   └── sample-data.csv
+│
+├── analysis/
+│   ├── methodology.md
+│   ├── quantitative-analysis.md
+│   └── results.md
+│
+├── code/
+│   ├── analysis.py
+│   └── requirements.txt
+│
+└── media/
+    ├── project-poster.jpg
+    └── presentation-slides.pdf
