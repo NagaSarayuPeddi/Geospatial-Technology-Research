@@ -2,6 +2,9 @@
 
 A geospatial analysis investigating how land cover, vegetation, and urban development contribute to Urban Heat Island effects across Raleigh using GIS and data analysis.
 
+## Infographic
+![Infographic](maps/Infographic.png)
+
 ## Project Overview
 
 Urban Heat Islands (UHIs) occur when developed areas become significantly warmer than surrounding rural regions due to dense infrastructure, impervious surfaces, and limited vegetation. This project analyzes Raleigh, North Carolina using GIS to identify heat hotspots, understand the environmental factors contributing to elevated temperatures, and propose equitable mitigation strategies.
