@@ -69,28 +69,37 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 ### Transportation
 Major roads and railroads consistently overlap with higher evening temperatures, suggesting transportation infrastructure contributes to Urban Heat Island intensity.
 
-[Temperature and Transportation Map](maps/01_temperature_impervious_transportation.png)
-<img src="maps/01_temperature_impervious_transportation.png" alt="Final Map" width="50%">
+<a href="maps/01_temperature_impervious_transportation.png">
+  <img src="maps/01_temperature_impervious_transportation.png" alt="Temp, Impervious Surface, and Transportation" width="50%">
+</a>
 
 ### Vegetation
 Areas with greater tree canopy generally experience lower temperatures, reinforcing the cooling benefits of urban forests and greenways.
 
-[Temperature and Tree Canopy](maps/02_temperature_canopy.png)
+<a href="maps/02_temperature_canopy.png">
+  <img src="maps/02_temperature_canopy.png" alt="Temp and Tree Canopy" width="50%">
+</a>
 
 ### Parking Lots
 Large asphalt parking lots frequently overlap with areas of elevated evening temperatures because of their low albedo and impermeable surfaces.
 
-[Temperature and Parking Lots](maps/05_temperature_parkinglots.png)
+<a href="maps/05_temperature_parkinglots.png">
+  <img src="maps/05_temperature_parkinglots.png" alt="Temp and Parking Lots" width="50%">
+</a>
 
 ### Social Vulnerability
 Communities with higher social vulnerability often coincide with hotter areas, indicating that heat exposure can disproportionately affect vulnerable populations.
 
-[Temperature and Social Vulnerability](maps/04_temperature_social_vulnerability.png)
+<a href="maps/04_temperature_social_vulnerability.png">
+  <img src="maps/04_temperature_social_vulnerability.png" alt="Temp and Social Vulnerability" width="50%">
+</a>
 
 ### Cooling Centers
 Overlaying heat, social vulnerability, senior populations, and city buildings allowed the identification of locations where additional cooling centers would have the greatest impact.
 
-[Cooling Centers and City Buildings](maps/06_cooling_centers.png)
+<a href="maps/06_cooling_centers.png">
+  <img src="maps/06_cooling_centers.png" alt="Cooling Centers" width="50%">
+</a>
 
 ## Proposed Solutions
 
@@ -112,7 +121,9 @@ By combining temperature, social vulnerability, senior population, and city buil
 ### Expanding Greenway Corridors
 Greenways generally corresponded with cooler temperatures, demonstrating the benefits of connected vegetation. Expanding tree coverage along existing greenways—particularly in warmer sections—can strengthen these natural cooling corridors and reduce surrounding temperatures.
 
-[Temperature and Greenways](maps/03_temperature_greenways.png)
+<a href="maps/03_temperature_greenways.png">
+  <img src="maps/03_temperature_greenways.png" alt="Temp and Greenways" width="50%">
+</a>
 
 ## Tools Used
 GIS
