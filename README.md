@@ -125,6 +125,14 @@ Greenways generally corresponded with cooler temperatures, demonstrating the ben
   <img src="maps/03_temperature_greenways.png" alt="Temp and Greenways" width="50%">
 </a>
 
+## Limitations
+
+- The analysis relied on publicly available datasets collected at different times and resolutions, which may introduce spatial or temporal inconsistencies.
+- Evening air temperature data represents a snapshot of conditions rather than long-term seasonal trends, so heat patterns may vary across different weather conditions.
+- The project identifies spatial relationships between environmental features and temperature but does not establish direct cause-and-effect relationships.
+- Some demographic datasets, including the Social Vulnerability Index, are aggregated by census geography and may not capture neighborhood-level differences.
+- The proposed mitigation strategies were identified through spatial analysis and literature review but were not evaluated using cost, engineering feasibility, or long-term implementation studies.
+
 ## Tools Used
 GIS
 
