@@ -70,6 +70,7 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 Major roads and railroads consistently overlap with higher evening temperatures, suggesting transportation infrastructure contributes to Urban Heat Island intensity.
 
 [Temperature and Transportation Map](maps/01_temperature_impervious_transportation.png)
+<img src="maps/01_temperature_impervious_transportation.png" alt="Final Map" width="50%">
 
 ### Vegetation
 Areas with greater tree canopy generally experience lower temperatures, reinforcing the cooling benefits of urban forests and greenways.
