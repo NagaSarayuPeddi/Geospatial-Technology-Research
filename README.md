@@ -53,7 +53,7 @@ Urban Heat Islands (UHIs) occur when developed areas become significantly warmer
 | Dataset | Source | Purpose |
 |---|---|---|
 | Land Cover | [City of Raleigh](https://www.arcgis.com/home/item.html?id=a0bd0e59810a4179b7d8a8a220493d42#overview) | Identifies open water, bare soil, low vegetation areas, tree canopy, and impervious surfaces |
-| Evening Air Temperature | [ArcGIS](https://gis.nnvl.noaa.gov/arcgis/rest/services/HINDZ/Evening_Air_Temperature_in_Cities/ImageServer) | Identifies spatial patterns in evening air temperatures and locate potential urban heat island hotspots |
+| Evening Air Temperature | [ArcGIS](https://gis.nnvl.noaa.gov/arcgis/rest/services/HINDZ/Evening_Air_Temperature_in_Cities/ImageServer) | Identifies spatial patterns in evening air temperatures and locates potential urban heat island hotspots |
 | Fractional Impervious Surface | [Esri Environment](https://www.arcgis.com/home/item.html?id=6df535f263dd44f489365eed49461a38) | Calculates the percentage of each pixel that is covered by an impervious surface |
 | Transportation (Roads and Railroads) | [Esri Environment](https://www.arcgis.com/home/item.html?id=f42ecc08a3634182b8678514af35fac3) | Displays primary roads, secondary roads, local roads and railroads in the United States. |
 | Global Canopy Height | [Esri Environment](https://www.arcgis.com/home/item.html?id=2a3dfb00c2c6425f85bd70da420d58eb) | Displays global vegetation height on a scale with a resolution of 10-m. |
